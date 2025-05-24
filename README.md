@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/496124318_122109180818855440_45267022754689058_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CUU6qqN7nqkQ7kNvwEjAGQl&_nc_oc=Adl7hLZI-yN6rp8FSV4NllcjtQACPskrgs-7ewwIUk09FjTM2Fnnd1vAEpudRsbsCOU&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=W68HoOy5tHg6X2MUOA-b-w&oh=00_AfJ4VuBsFQZ9tEYk8Ij_CFsK_zn4kiwmKiW-7NsKp1gwDQ&oe=6827863C"  />
+<img align="left" height="200" src="https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/496124318_122109180818855440_45267022754689058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHxdZKj3p9L4nLVH4jx3OM3xtRm6pl-g6jG1GbqmX6DqERvwb6C_rkkZa5WfGZmVqsqhANXAe9OSWjvmvBH3FA0&_nc_ohc=_x4wjaUuQuUQ7kNvwEoraCN&_nc_oc=Adn140b_Nwg_varzBm-8NFakJ4IZB1bzUgpvEa8KTpXAftPOsfF6W74jnTRy5WhNCB8&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=pkeUdNck8rJqXqYZwVDcAw&oh=00_AfL2-1xdXEO7xqhzPxAPom5BPNMxn0vXDmG-9bOIQrKY5w&oe=68371FFC"  />
 
 ###
 
