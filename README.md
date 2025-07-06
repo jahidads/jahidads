@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/496124318_122109180818855440_45267022754689058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=LKmddVIvpFwQ7kNvwF-vD3k&_nc_oc=AdnxLoyqwldtmurFMAoalyVZRx1KlKbbsu1QDXzfpaT5QTlBLQFuk3Ggi9oX1PhBAzw&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=qUJz2Me4xejBTyGnY5oqqA&oh=00_AfM6NaqqIuvLrli3nmlgcRxL0jzylKCNpqMk97jzSIl0hg&oe=685DCBFC"  />
+<img align="left" height="200" src="banar.jpg"  />
 
 ###
 
