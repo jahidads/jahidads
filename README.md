@@ -8,13 +8,13 @@
 
 <h1 align="left">About me -</h1>
 
-#####
+###
 
 <br clear="both">
 
-<img align="left" height="200" src="banar.jpg"  />
+<img align="left" height="200" src="https://pbs.twimg.com/media/GvLnSP8b0AAN0tl?format=jpg&name=small"  />
 
-#####
+###
 
 <br clear="both">
 
