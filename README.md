@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="banar.jpg"  />
+<img align="left" height="400" src="banar.jpg"  />
 
 ####
 
