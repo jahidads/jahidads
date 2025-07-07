@@ -54,6 +54,14 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<h1 align="left">MY Github Profile-</h1>
+
+###
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Jahid%20Hasan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=%20I%27m%20a%20passionate%20Web%20Developer%20%20and%20Designer.&descSize=20&descAlignY=55&descAlign=50)
 
 <div align="center">
