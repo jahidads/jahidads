@@ -1,3 +1,59 @@
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jahidads.jahidads&"  />
+
+###
+
+<br clear="both">
+
+<h1 align="left">About me -</h1>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://pbs.twimg.com/media/GvLnSP8b0AAN0tl?format=jpg&name=360x360"  />
+
+###
+
+<br clear="both">
+
+<h1 align="left">Contact me -</h1>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.facebook.com/jahidads1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/8801308839759" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/jahidhasan.tg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/jahidhasan_tw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jahidads/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/jahidhasan_dis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/jahidhasan2.0ff/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@jahidads" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/jahidads" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="42" height="30" alt="twitch logo"  />
+  </a>
+</div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Jahid%20Hasan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=%20I%27m%20a%20passionate%20Web%20Developer%20%20and%20Designer.&descSize=20&descAlignY=55&descAlign=50)
 
 <div align="center">
