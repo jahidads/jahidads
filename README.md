@@ -10,9 +10,13 @@
 
 ###
 
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
+
 <br clear="both">
 
-<img align="left" height="200" src="https://pbs.twimg.com/media/GvLnSP8b0AAN0tl?format=jpg&name=360x360"  />
+<img align="left" height="200" src="jahid.jpg"  />
 
 ###
 
