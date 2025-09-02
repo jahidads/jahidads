@@ -38,7 +38,7 @@
   <a href="https://t.me/jahidhasan.tg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
   </a>
-  <a href="https://x.com/jahidhasan_tw" target="_blank">
+  <a href="https://x.com/jahidads" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jahidads/" target="_blank">
